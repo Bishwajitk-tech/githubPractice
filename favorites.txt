@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Dahi-chura
 Golgappa
 Tasmai
+=======
+Sholay
+gangs of wasseypur
+Pirates of the carribean
+>>>>>>> movies
